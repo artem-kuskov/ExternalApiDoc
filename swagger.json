@@ -1943,7 +1943,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -1974,7 +1974,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2005,7 +2005,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2036,7 +2036,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2219,7 +2219,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2257,7 +2257,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2345,7 +2345,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2383,7 +2383,7 @@
                                         "parentCompanyId": "string",
                                         "name": "string",
                                         "email": "string",
-                                        "updated": "string",
+                                        
                                         "externalDepartmentIds": [
                                             "string"
                                         ],
@@ -2909,9 +2909,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -2945,9 +2943,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -2981,9 +2977,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3017,9 +3011,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3205,9 +3197,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3248,9 +3238,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3341,9 +3329,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3384,9 +3370,7 @@
                                         "externalProjectId": "string",
                                         "name": "string",
                                         "startDate": "string",
-                                        "startDateParsed": "string",
                                         "endDate": "string",
-                                        "endDateParsed": "string",
                                         "salary": "string",
                                         "invoice": "string",
                                         "description": "string",
@@ -3438,7 +3422,7 @@
                                         "name": "string",
                                         "status": "string",
                                         "completePercent": "string",
-                                        "updated": "string"
+                                        
                                     }
                                 ]
                             }
@@ -3458,8 +3442,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             }
@@ -3479,8 +3462,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             }
@@ -3500,8 +3482,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             }
@@ -3673,8 +3654,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             },
@@ -3701,8 +3681,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             }
@@ -3779,8 +3758,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             },
@@ -3807,8 +3785,7 @@
                                         "responsibleUserId": "string",
                                         "name": "string",
                                         "status": "string",
-                                        "completePercent": "string",
-                                        "updated": "string"
+                                        "completePercent": "string"
                                     }
                                 ]
                             }
@@ -4620,10 +4597,6 @@
                         "type": "string",
                         "nullable": true
                     },
-                    "updated": {
-                        "type": "string",
-                        "format": "date-time"
-                    },
                     "externalDepartmentIds": {
                         "type": "array",
                         "items": {
@@ -4677,10 +4650,6 @@
                     "email": {
                         "type": "string",
                         "nullable": true
-                    },
-                    "updated": {
-                        "type": "string",
-                        "format": "date-time"
                     },
                     "externalDepartmentIds": {
                         "type": "array",
@@ -4958,17 +4927,9 @@
                     },
                     "startDate": {
                         "type": "string",
-                        "nullable": true
-                    },
-                    "startDateParsed": {
-                        "type": "string",
                         "format": "date-time"
                     },
                     "endDate": {
-                        "type": "string",
-                        "nullable": true
-                    },
-                    "endDateParsed": {
                         "type": "string",
                         "format": "date-time",
                         "nullable": true
@@ -5048,17 +5009,9 @@
                     },
                     "startDate": {
                         "type": "string",
-                        "nullable": true
-                    },
-                    "startDateParsed": {
-                        "type": "string",
                         "format": "date-time"
                     },
                     "endDate": {
-                        "type": "string",
-                        "nullable": true
-                    },
-                    "endDateParsed": {
                         "type": "string",
                         "format": "date-time",
                         "nullable": true
@@ -5177,10 +5130,6 @@
                     "completePercent": {
                         "type": "string",
                         "nullable": true
-                    },
-                    "updated": {
-                        "type": "string",
-                        "format": "date-time"
                     }
                 },
                 "additionalProperties": false
@@ -5223,10 +5172,6 @@
                     "completePercent": {
                         "type": "string",
                         "nullable": true
-                    },
-                    "updated": {
-                        "type": "string",
-                        "format": "date-time"
                     }
                 },
                 "additionalProperties": false
